@@ -11,9 +11,9 @@
   <img src="https://leetcard.jacoblin.cool/825pranav?theme=dark&font=Monospace" alt="LeetCode Stats">
 </p>
 
-<h3 align="left">GitHub Heatmap:</h3>
+<h3 align="left">GitHub Contribution Graph:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=825pranav&layout=compact&theme=dark&hide_border=true" alt="GitHub Heatmap">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=825pranav&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
