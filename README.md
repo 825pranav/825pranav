@@ -21,6 +21,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=825pranav&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
 </p>
 
+<h3 align="left">GitHub Contribution Graph:</h3>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=825pranav&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph">
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
