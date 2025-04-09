@@ -6,10 +6,7 @@
 <a href="https://www.leetcode.com/825pranav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="825pranav" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">LeetCode Stats:</h3>
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/825pranav?theme=dark&font=Monospace" alt="LeetCode Stats">
-</p>
+
 
 <h3 align="left">GitHub Contribution Graph:</h3>
 <p align="left">
