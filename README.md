@@ -8,10 +8,7 @@
 
 
 
-<h3 align="left">GitHub Contribution Graph:</h3>
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=825pranav&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph">
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
