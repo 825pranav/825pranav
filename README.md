@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Negi</h1>
 - 📫 How to reach me **pranavnegi@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/825pranav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="825pranav" height="30" width="40" /></a>
-</p>
+
 
 
 
