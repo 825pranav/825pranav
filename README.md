@@ -11,19 +11,6 @@
 
 ---
 
-### About me
-
-```python
-pranav = {
-    "focus"     : ["Quantitative Finance", "Machine Learning", "Full-Stack"],
-    "currently" : "Building a regime-aware Gold/Silver trading system",
-    "stack"     : ["Python", "React", "Node.js", "MongoDB"],
-    "reach"     : "pranavnegi@gmail.com",
-}
-```
-
----
-
 ### Tech stack
 
 **Languages**
@@ -48,18 +35,6 @@ pranav = {
 ![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 
 ---
-
-### Contribution snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/825pranav/825pranav/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/825pranav/825pranav/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/825pranav/825pranav/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
