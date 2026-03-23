@@ -2,10 +2,6 @@
 
 # Hey, I'm Pranav Negi 👋
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=825pranav&color=58a6ff&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/825pranav?label=Followers&style=flat-square&color=58a6ff)](https://github.com/825pranav)
 
 </div>
 
